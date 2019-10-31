@@ -1,0 +1,68 @@
+Ship or Plane?
+ship
+
+[0] Run old client
+[1] input file
+[2] Change the price associated with Cabins in a Trip section
+[3] Change price for a Cabin class for an origin and destination for a Cruise
+[4] Find Trip
+[5] Book Cabin
+[6] Book Cabin with preference
+[7] Display system details
+[8] Store output
+[9] Create Port
+[10] Create Cruise
+[11] Create Trip
+[12] Create section
+[13] Quit
+
+
+0
+Port DEN already exists
+Invalid Port format for: DENW
+Invalid Cruise format for: FRONTIER
+Cruise FRONT already exists
+Origin DEN and destination DEN cannot be the same
+Cruise DEL doesn't exist
+Origin LON33 doesn't exist
+Invalid date format: 100/40/2010
+first class section already exists for the DELTA 123 Trip
+Trip SWSERTT 123 doesn't exist
+Cabin: 1A booked!
+Cabin: 1A booked!
+Cabin: 1B booked!
+Trip DELTA888 123 for business class doesn't exist
+Trip DELTA 123haha7 for business class doesn't exist
+Cabin 1A is not available for economy class on Trip DELTA 123
+
+Available Trips from DEN to LON: 
+DELTA 123: From DEN to LON at 0:0 on 10/10/2018
+economy class @ $0
+first class @ $0
+
+Ports:
+[DEN, DFW, LON]
+
+Cruises:
+[DELTA, AMER, FRONT]
+
+Trips:
+[DELTA 123: From DEN to LON at 0:0 on 10/10/2018
+]
+
+Sections:
+[DELTA 123: economy class, 2 rows 2 columns.
+Price per Cabin: $0
+Available Cabins:
+2A, 2B
+Booked Cabins:
+1A, 1B
+
+, DELTA 123: first class, 2 rows 3 columns.
+Price per Cabin: $0
+Available Cabins:
+1B, 1C, 2A, 2B, 2C
+Booked Cabins:
+1A
+
+]
